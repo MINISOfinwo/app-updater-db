@@ -1,0 +1,14 @@
+[
+  {
+    "name": "7-Zip",
+    "latestVersion": "23.01",
+    "downloadUrl": "https://7-zip.org/a/7z2301-x64.exe",
+    "silentFlag": "/S"
+  },
+  {
+    "name": "VLC Media Player",
+    "latestVersion": "3.0.20",
+    "downloadUrl": "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe",
+    "silentFlag": "/S"
+  }
+]
